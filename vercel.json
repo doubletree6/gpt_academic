@@ -1,6 +1,6 @@
 {
   "name": "gpt-academic",
-  "version": 1,
+  "version": 2,
   "framework": null,
   "builds": [
     {
